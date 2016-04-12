@@ -27,5 +27,6 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:src="@drawable/c76776l"
-        android:alpha="0" />
+        android:onClick="fade"
+        android:alpha="0.2" />
 </RelativeLayout>
